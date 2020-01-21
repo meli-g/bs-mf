@@ -1,0 +1,31 @@
+#backdrop {
+    background-color:yellow;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+header {
+  background-color: blue; 
+  padding-bottom: 6%;
+}
+nav {
+    background-color: green;
+    padding-bottom: 6%;
+}
+main{
+    background-color: red;
+    padding-bottom: 6%;
+}
+aside {
+    background-color: aqua;
+    padding-bottom: 6%;
+}
+section{
+    background-color: orange;
+    border: black;
+    padding-bottom: 6%;
+}
+
+footer{
+    background-color: black;
+    padding-bottom: 6%;
+    
